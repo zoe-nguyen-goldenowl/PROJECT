@@ -9,5 +9,8 @@ module Export
 	def prepend
 		puts "-------demo prepend----------"
 	end
+	def print_hello
+		puts "-------say hi----------"
+	end
 end
 
