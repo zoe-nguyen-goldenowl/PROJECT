@@ -25,3 +25,4 @@ return str
 end
 createphone([1,2,3,4,5,6,7,8,9,0])
 createphone([1,1,1,1,1,1,1,1,1,1])
+createphone([3,4,3,4,5,6,7,2,3,5])
