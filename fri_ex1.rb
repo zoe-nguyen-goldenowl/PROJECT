@@ -17,4 +17,4 @@ end
 def fun2(arr, &l)
   yield (arr)
 end
-fun1([1,2,3,4], &l) 
+fun2([1,2,3,4], &l) 
